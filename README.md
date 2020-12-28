@@ -1,3 +1,4 @@
 # Reto3Notas
 Alan Castro Egoavil
-Anlly Champi Asencios 
+Anlly Champi Asencios
+Diego Estrella Sanchez
